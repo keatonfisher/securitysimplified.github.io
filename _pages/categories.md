@@ -1,7 +1,3 @@
----
-layout: page
-permalink: /categories/
-title: Categories
----
+Categories go here
 
 
