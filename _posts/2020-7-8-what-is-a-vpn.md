@@ -12,7 +12,7 @@ anything happening inside. That red car could stop inside the tunnel, do some bu
 and exiting the tunnel.
 
 This is a bit like a VPN. When you connect to a VPN, anyone who happens to be snooping around your network traffic probably can't see what you're
-doing anymore. This makes VPNs very useful in countries where you could be punished for what you look at online. 
+doing anymore. They can only see that you connected and/or disconnected. This makes VPNs very useful in countries where you could be punished for what you look at online. 
 
 Connecting to a VPN will also change your IP address. Your IP address can be used to geolocate you. This is why lots of people use VPNs to circumnavigate 
 regional restrictions on content. If a popular Netflix series isn't available in a certain country, one could connect to a VPN that's located in a different country,
