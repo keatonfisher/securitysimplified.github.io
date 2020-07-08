@@ -9,4 +9,6 @@ Security Simplified is a small blog dedicated to simplifying security and privac
 
 ## About Me
 
+<p align="center">
 Text goes here
+</p>
