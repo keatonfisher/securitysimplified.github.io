@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Open Source?
-categories: basics
+categories: Basics
 ---
 
 When you use popular software, chances are its source code is not publicly accessible. This means you can't look through the code to make sure the software is doing what it 
