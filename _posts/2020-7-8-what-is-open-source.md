@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Open Source?
-image: /images/secsimplogomed.png
+image: https://keatonfisher.github.io//images/secsimplogomed.png
 categories: Basics
 ---
 
