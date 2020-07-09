@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is a VPN?
+image: images/secsimplogomed.png
 categories: Basics
 ---
 
