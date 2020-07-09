@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What Is Open Source?
+image: /images/secsimplogomed.png
 categories: Basics
 ---
 
